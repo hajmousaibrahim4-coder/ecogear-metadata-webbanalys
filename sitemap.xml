@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://example.com/</loc></url>
+<url><loc>https://example.com/kategorier.html</loc></url>
+<url><loc>https://example.com/produkter.html</loc></url>
+<url><loc>https://example.com/analys.html</loc></url>
+<url><loc>https://example.com/category/friluftsliv.html</loc></url>
+<url><loc>https://example.com/category/vardag.html</loc></url>
+<url><loc>https://example.com/products/ryggsack.html</loc></url>
+<url><loc>https://example.com/products/flaska.html</loc></url>
+<url><loc>https://example.com/products/jacka.html</loc></url>
+</urlset>

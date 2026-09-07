@@ -1,0 +1,9 @@
+﻿Fält,Exempel,Syfte,Regel
+title,Regnjacka Light - EcoGear,Sidtitel/sökresultat,Unik och beskrivande
+description,Lätt regnjacka...,Beskriver sidans innehåll,"Unik, relevant och kort"
+canonical,https://example.com/products/jacka.html,Anger föredragen URL,En per sida
+product_name,Regnjacka Light,Identifiera produkt,Obligatoriskt
+category,Friluftsliv,Gruppering och sökning,Kontrollerat värde
+sku,EG-JAC-01,Unikt produkt-ID,Unikt
+price,899,Pris och analys,"Numeriskt, SEK"
+keywords,regn jacka vandring,Intern informationssökning,Relevanta ord/synonymer

@@ -1,0 +1,5 @@
+datum,event,antal,kommentar
+2026-09-07,search,6,Verifierad i GTM Preview/Tag Assistant och skickad till GA4
+2026-09-07,select_item,1,Verifierad i GTM Preview/Tag Assistant och skickad till GA4 (Välj artikel)
+2026-09-07,view_item,1,Verifierad i GTM Preview/Tag Assistant och skickad till GA4 (Visa artikel)
+2026-09-07,add_to_cart,1,Verifierad i GTM Preview/Tag Assistant och skickad till GA4 (Lägg i kundvagn)

@@ -1,0 +1,5 @@
+mål,kpi,event,html_gtm_selector,parametrar
+Förstå sökning,Sökningar och nollträffar,search,#product-search,"search_term; results_count"
+Se val från listor,Produktklick,select_item,a.js-product-link,"ecommerce.items"
+Mäta produktintresse,Produktvisningar,view_item,article.product-detail,"currency; value; ecommerce.items"
+Mäta köpintention,Lägg i varukorg,add_to_cart,button.js-add-to-cart,"currency; value; ecommerce.items"

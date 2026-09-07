@@ -1,0 +1,10 @@
+﻿fil,title,description,canonical,h1,microdata_objekt,jsonld_block
+analys.html,Mätplan och GA4/GTM - EcoGear,"Mätplan, semantiska HTML-val och lokal testning av Google Tag Manager och GA4 för EcoGear.",https://example.com/analys.html,Mätplan och test av GA4/GTM,0,0
+category/friluftsliv.html,Friluftsliv - EcoGear,"Produkter för vandring, utflykt och regn.",https://example.com/category/friluftsliv.html,Friluftsliv,0,0
+category/vardag.html,Vardag - EcoGear,"Produkter för skola, jobb, träning och vardag.",https://example.com/category/vardag.html,Vardag,0,0
+index.html,EcoGear - metadata och webbanalys,"EcoGear är ett skolprojekt som visar semantisk HTML, metadata, Google Tag Manager och GA4.",https://example.com/,EcoGear - en liten webbshop,0,0
+kategorier.html,Kategorier - EcoGear,Välj mellan kategorierna Friluftsliv och Vardag i EcoGear-projektet.,https://example.com/kategorier.html,Kategorier,0,0
+products/flaska.html,Stålflaska 750 ml - EcoGear,Återanvändbar vattenflaska i rostfritt stål med volym 750 ml.,https://example.com/products/flaska.html,Stålflaska 750 ml,2,1
+products/jacka.html,Regnjacka Light - EcoGear,Lätt regnjacka för vardag och friluftsliv med enkel packning.,https://example.com/products/jacka.html,Regnjacka Light,2,1
+products/ryggsack.html,Återvunnen ryggsäck - EcoGear,En enkel ryggsäck av återvunnet material för vardag och kortare utflykter.,https://example.com/products/ryggsack.html,Återvunnen ryggsäck,2,1
+produkter.html,Alla produkter - EcoGear,Sök bland EcoGears produkter med hjälp av produktmetadata.,https://example.com/produkter.html,Alla produkter,0,0
