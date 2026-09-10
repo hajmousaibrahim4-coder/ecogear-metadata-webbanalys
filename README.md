@@ -20,7 +20,3 @@ STABILA GTM-SELECTORS
 - a.js-product-link
 - article.product-detail
 - button.js-add-to-cart
-
-GITHUB
-Läraren kräver riktig git-historik. Skapa inte falska eller bakdaterade commits.
-GitHub måste göras i Ibrahims eget konto med riktiga commits för arbete som faktiskt utförs.
