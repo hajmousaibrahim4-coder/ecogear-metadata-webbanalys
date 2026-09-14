@@ -20,3 +20,5 @@ STABILA GTM-SELECTORS
 - a.js-product-link
 - article.product-detail
 - button.js-add-to-cart
+- SENASTE KONTROLL 2026-09-14
+Projektet har kontrollerats lokalt efter publicerad GTM-konfiguration och verifierade GA4-events.
