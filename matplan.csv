@@ -3,3 +3,4 @@ Förstå sökning,Sökningar och nollträffar,search,#product-search,"search_ter
 Se val från listor,Produktklick,select_item,a.js-product-link,"ecommerce.items"
 Mäta produktintresse,Produktvisningar,view_item,article.product-detail,"currency; value; ecommerce.items"
 Mäta köpintention,Lägg i varukorg,add_to_cart,button.js-add-to-cart,"currency; value; ecommerce.items"
+2026-09-14,Slutkontroll,Kontrollerad,Mätplanen har granskats och jämförts med projektets implementerade event.
