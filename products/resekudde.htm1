@@ -26,15 +26,15 @@
             <span>Resekudde Eco</span>
         </nav>
 
-        <article class="product-detail">
-            <h1>Resekudde Eco</h1>
+        <article class="product-detail" itemscope itemtype="https://schema.org/Product">
+            <h1 itemprop="name">Resekudde Eco</h1>
 
             <p>En bekväm resekudde för längre resor och utflykter.</p>
 
-            <p><strong>SKU:</strong> ECO-RESE-01</p>
-            <p><strong>Varumärke:</strong> EcoGear</p>
-            <p><strong>Kategori:</strong> Resor</p>
-            <p><strong>Pris:</strong> 199 SEK</p>
+            <p><strong>SKU:</strong> <span itemprop="sku">ECO-RESE-01</span></p>
+            <p><strong>Varumärke:</strong> <span itemprop="brand">EcoGear</span></p>
+            <p><strong>Kategori:</strong> <span itemprop="category">Resor</span></p>
+            <p><strong>Pris:</strong> <span itemprop="offers" itemscope itemtype="https://schema.org/Offer"><span itemprop="price">199</span> <span itemprop="priceCurrency">SEK</span></span></p>
 
             <button class="js-add-to-cart"
                     type="button"
