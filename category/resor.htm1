@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resor | EcoGear</title>
+    <meta name="description" content="EcoGear-produkter för resor och bekväma äventyr.">
+    <link rel="canonical" href="http://localhost:8000/category/resor.html">
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <header>
+        <nav id="main-navigation" aria-label="Huvudnavigation">
+            <a href="../index.html">EcoGear</a>
+            <a href="../kategorier.html">Kategorier</a>
+            <a href="../produkter.html">Produkter</a>
+        </nav>
+    </header>
+
+    <main>
+        <nav aria-label="Brödsmulor">
+            <a href="../index.html">Start</a> /
+            <a href="../kategorier.html">Kategorier</a> /
+            <span>Resor</span>
+        </nav>
+
+        <section>
+            <h1>Resor</h1>
+            <p>Praktiska och hållbara produkter för resor.</p>
+
+            <article>
+                <h2>Packpåse 20 L</h2>
+                <p>Smidig packpåse för att organisera kläder och utrustning.</p>
+                <a class="js-product-link" href="../products/packpase.html">
+                    Visa Packpåse 20 L
+                </a>
+            </article>
+
+            <article>
+                <h2>Resekudde Eco</h2>
+                <p>Bekväm resekudde för längre resor och utflykter.</p>
+                <a class="js-product-link" href="../products/resekudde.html">
+                    Visa Resekudde Eco
+                </a>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 EcoGear</p>
+    </footer>
+
+    <script src="../script.js"></script>
+</body>
+</html>

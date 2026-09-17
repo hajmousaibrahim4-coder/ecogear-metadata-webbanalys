@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resekudde Eco | EcoGear</title>
+    <meta name="description" content="Resekudde Eco från EcoGear för bekväma resor och utflykter.">
+    <link rel="canonical" href="http://localhost:8000/products/resekudde.html">
+    <link rel="stylesheet" href="../style.css">
+</head>
+
+<body>
+    <header>
+        <nav id="main-navigation" aria-label="Huvudnavigation">
+            <a href="../index.html">EcoGear</a>
+            <a href="../kategorier.html">Kategorier</a>
+            <a href="../produkter.html">Produkter</a>
+        </nav>
+    </header>
+
+    <main>
+        <nav aria-label="Brödsmulor">
+            <a href="../index.html">Start</a> /
+            <a href="../kategorier.html">Kategorier</a> /
+            <a href="../category/resor.html">Resor</a> /
+            <span>Resekudde Eco</span>
+        </nav>
+
+        <article class="product-detail">
+            <h1>Resekudde Eco</h1>
+
+            <p>En bekväm resekudde för längre resor och utflykter.</p>
+
+            <p><strong>SKU:</strong> ECO-RESE-01</p>
+            <p><strong>Varumärke:</strong> EcoGear</p>
+            <p><strong>Kategori:</strong> Resor</p>
+            <p><strong>Pris:</strong> 199 SEK</p>
+
+            <button class="js-add-to-cart"
+                    type="button"
+                    data-product-id="ECO-RESE-01"
+                    data-product-name="Resekudde Eco"
+                    data-product-category="Resor"
+                    data-product-price="199">
+                Lägg i varukorg
+            </button>
+        </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 EcoGear</p>
+    </footer>
+
+    <script src="../script.js"></script>
+</body>
+</html>
